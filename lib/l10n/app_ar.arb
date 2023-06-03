@@ -1,0 +1,27 @@
+{
+    "helloWorld": "سلسيبل",
+    "asksheikelias": "اسأل الشيخ الياس احمد",
+    "setting": "إعدادات",
+    "changelanguage": "تغيير اللغة",
+    "night_mode": "الوضع الليلي",
+    "on": "تشغيل",
+    "off": "إيقاف",
+    "fullname": "الاسم بالكامل",
+    "question_title": "عنوان السؤال",
+    "question_desc": "وصف السؤال",
+    "tags": "العلامات",
+    "sendquestion": "إرسال سؤال",
+    "mohamedabdlah": "محمد عبد الله",
+    "whatis": "ما هو",
+    "describeyourquestionhere": "صِف سؤالك هنا",
+    "writewhattopicareyouaskingabout": "اكتب الموضوع الذي تسأل عنه",
+    "lang":"عربي",
+    "please_Enter_your_Full_Name":"من فضلك ادخل اسمك الكامل",
+    "please_Enter_your_question_title":"الرجاء إدخال عنوان سؤالك",
+    "please_Enter_your_question_description":"الرجاء إدخال وصف سؤالك",
+    "please_Enter_your_question_tags":"الرجاء إدخال علامات سؤالك",
+    "you_have_successfully_sent_your_question_soon_it_will_be_answered":"لقد أرسلت سؤالك بنجاح. قريبا سيتم الرد عليه",
+    "error_Please_Try_again":"!خطأ ، يرجى المحاولة مرة أخرى"
+
+
+}

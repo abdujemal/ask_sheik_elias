@@ -1,0 +1,27 @@
+{
+    "helloWorld": "ሃሎ አለም",
+    "asksheikelias": "ሸይኽ ኢልያስ አህመድን ይጠይቁ",
+    "setting": "ማስተካከያዎች",
+    "changelanguage": "ቋንቋ ቀይር",
+    "night_mode": "የሌሊት ሞድ",
+    "on": "በርቷል",
+    "off": "ጠፍቷል",
+    "fullname": "ሙሉ ስም",
+    "question_title": "የጥያቄዎ አርእስት",
+    "question_desc": "የጥያቄ መግለጫ",
+    "tags": "መለያዎች",
+    "sendquestion": "ጥያቄውን ላክ",
+    "mohamedabdlah": "መሐመድ አብደላህ",
+    "whatis": ".... ምን ማለት ነው።",
+    "describeyourquestionhere": "ጥያቄዎን እዚህ ያብራሩ",
+    "writewhattopicareyouaskingabout": "የሚጠይቁትን ርዕስ ይጻፉ",
+    "lang":"አማረኛ",
+    "please_Enter_your_Full_Name":"እባክዎን ሙሉ ስምዎን ያስገቡ!",
+    "please_Enter_your_question_title":"እባክዎን የጥያቄዎን ርዕስ ያስገቡ!",
+    "please_Enter_your_question_description":"እባክዎን የጥያቄዎን መግለጫ ያስገቡ!",
+    "please_Enter_your_question_tags":"እባክዎን የጥያቄዎን መለያዎች ያስገቡ!",
+    "you_have_successfully_sent_your_question_soon_it_will_be_answered":"ጥያቄዎን በተሳካ ሁኔታ ልከዋል። በቅርቡ መልስ ይሰጣል።",
+    "error_Please_Try_again":"ስህተት ፣ እባክዎን እንደገና ይሞክሩ!"
+
+
+}

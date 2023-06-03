@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041296420624",
+    "project_id": "alfetwaustazelias",
+    "storage_bucket": "alfetwaustazelias.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041296420624:android:f623b909ae5f7e70a07f95",
+        "android_client_info": {
+          "package_name": "com.fetwa.ask_sheik_elias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041296420624-ir6m06sja9u8csjupn4if1fh8q964qn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBabHeZwluYovH6OOqnH3MvZmt42_sMZvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041296420624-ir6m06sja9u8csjupn4if1fh8q964qn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
